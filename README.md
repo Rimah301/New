@@ -31,4 +31,5 @@ docker-compose down
 ![Screenshot (320)](https://user-images.githubusercontent.com/90187321/139533077-f2266969-d21d-434a-8ed7-6f8bddbac831.png)
 
 4. DB schema
+
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/90187321/139533005-59736b3b-c9e2-4a93-ab67-7b94c53cb791.png)
