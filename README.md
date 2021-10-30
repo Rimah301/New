@@ -23,10 +23,12 @@ docker-compose
 docker-compose down
 
 # Fighre 
-1.	Run containers process "docker-compose up".
+1.	Run containers process "docker-compose up"& "docker-compose ps".
+![Screenshot (328)](https://user-images.githubusercontent.com/90187321/139533120-ce325863-57f8-470a-916a-b9b409e84918.png)
  
-2.	Containers list "docker container ls"
  
 3.	Containers screenshoot.png
+![Screenshot (320)](https://user-images.githubusercontent.com/90187321/139533077-f2266969-d21d-434a-8ed7-6f8bddbac831.png)
 
 4. DB schema
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/90187321/139533005-59736b3b-c9e2-4a93-ab67-7b94c53cb791.png)
